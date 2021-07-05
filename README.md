@@ -1,1 +1,1 @@
-# microseg-k8s-demo
+# microseg-k8s-demo-auth
